@@ -11,12 +11,13 @@ A mini-project that automates e-commerce data cleaning and metric calculation us
 - `sales_data.csv` – sample input data
 - `metrics_script.py` – Python script for data processing
 - `daily_revenue.csv` & `average_order_value.csv` – generated outputs
+- How to Run
+      ```bash
+      pip install pandas
+      python metrics_script.py
 
-## 💻 How to Run
-```bash
-pip install pandas
-python metrics_script.py
-
-## 📷 Dashboard Preview
+## 📸 Dashboard Preview
 
 ![Dashboard Preview](dashboard_preview.png)
+
+
