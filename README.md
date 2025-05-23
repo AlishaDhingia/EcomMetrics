@@ -16,3 +16,7 @@ A mini-project that automates e-commerce data cleaning and metric calculation us
 ```bash
 pip install pandas
 python metrics_script.py
+
+## 📷 Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
